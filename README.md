@@ -1,16 +1,13 @@
-### Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&width=100%&height=150&section=header&text=Gabriel%20Penke&fontSize=90" />
 
-<!--
-**GabrielPenke292/GabrielPenke292** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=4760F7&background=FFFFFF00&center=true&width=600&lines=Seja+bem-vindo!)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielPenke292&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+😀 Oi, eu sou o Gabriel <br>
+💻 Sou um dev que acredita nos códigos como um forma de se expressar <br>
+🧹 Sempre em busca de códigos limpos e fáceis de entender <br>
+❤️ Apaixonado por ensinar <br>
+
+<hr>
+
