@@ -4,7 +4,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielPenke292&show_icons=true&theme=radical)
 
-😀 Oi, eu sou o Gabriel <br>
+😀 Oi, eu sou o Gabriel, mas pode me chamar de Penke =] <br>
 💻 Sou um dev que acredita nos códigos como um forma de se expressar <br>
 🧹 Sempre em busca de códigos limpos e fáceis de entender <br>
 ❤️ Apaixonado por ensinar <br>
